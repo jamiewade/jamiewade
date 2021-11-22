@@ -1,8 +1,8 @@
 ### Nice to meet you 👋
 
-I'm Jamie. I'm a Front-end Developer based in the UK, working with Craft CMS, Tailwind, Gatsby, and Alpine.js.
+I'm Jamie. I'm a Front-end Developer based in the UK, working with Craft CMS, GraphQL, Tailwind, and Next.js.
 
-I also have experience with Shopify, Vue, and Laravel. In my spare time I am learning new languages such as Python and React.
+I also have experience with Shopify, PHP, Laravel, and Python, and other React frameworks such as React Native, and Gatsby.
 
 <!--
 **jamiewade/jamiewade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
