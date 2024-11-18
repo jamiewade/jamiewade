@@ -1,6 +1,6 @@
 ### Nice to meet you 👋
 
-I'm Jamie. I'm a Front-end Developer based in the UK, working with Craft CMS, GraphQL, Tailwind, and Next.js.
+I'm a Software Engineer based in the UK, working with Craft CMS, GraphQL, Next.JS, TypeScript, React, and Tailwind.
 
 I also have experience with Shopify, PHP, Laravel, and Python, and other React frameworks such as React Native, and Gatsby.
 
