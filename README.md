@@ -1,6 +1,6 @@
 ### Nice to meet you 👋
 
-I'm a Software Engineer based in the UK, working with Craft CMS, GraphQL, Next.JS, TypeScript, React, and Tailwind.
+I'm a Software Engineer from the UK working with Next.js, TypeScript, Zod, Tailwind, React, and Craft CMS.
 
 I also have experience with Shopify, PHP, Laravel, and Python, and other React frameworks such as React Native, and Gatsby.
 
